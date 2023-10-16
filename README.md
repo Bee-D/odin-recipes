@@ -1,2 +1,3 @@
 # odin-recipes
-# html only
+# Beginner Project
+# html and css
